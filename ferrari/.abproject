@@ -1,0 +1,37 @@
+{
+  "ProjectName": "ferrari",
+  "ProjectGuid": "b216a069-1c56-4971-93b0-657ac681101c",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ferrari",
+  "DisplayName": "ferrari",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{9995749e-8fa4-4c26-a4ee-67457f1039b6}",
+  "WP8ProductID": "{9fd65c89-da24-4f3a-bf82-1973475703c2}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
